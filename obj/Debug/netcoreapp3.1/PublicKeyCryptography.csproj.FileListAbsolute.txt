@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\bin\Debug\netcoreapp3.1\PublicKeyCryptography.exe
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\bin\Debug\netcoreapp3.1\PublicKeyCryptography.deps.json
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\bin\Debug\netcoreapp3.1\PublicKeyCryptography.runtimeconfig.json
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\bin\Debug\netcoreapp3.1\PublicKeyCryptography.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\bin\Debug\netcoreapp3.1\PublicKeyCryptography.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\bin\Debug\netcoreapp3.1\PublicKeyCryptography.pdb
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\obj\Debug\netcoreapp3.1\PublicKeyCryptography.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\obj\Debug\netcoreapp3.1\PublicKeyCryptography.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\obj\Debug\netcoreapp3.1\PublicKeyCryptography.AssemblyInfo.cs
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\obj\Debug\netcoreapp3.1\PublicKeyCryptography.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\obj\Debug\netcoreapp3.1\PublicKeyCryptography.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\obj\Debug\netcoreapp3.1\PublicKeyCryptography.pdb
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\PublicKeyCryptography\obj\Debug\netcoreapp3.1\PublicKeyCryptography.genruntimeconfig.cache
